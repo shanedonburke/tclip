@@ -4,6 +4,8 @@ tclip is a CLI utility for writing to and reading from the user clipboard.
 
 # Installation
 
+Check the [Releases](https://github.com/shanedonburke/tclip/releases/latest) page for the latest executables.
+
 # Instructions
 
 ```
